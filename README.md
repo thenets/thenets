@@ -4,7 +4,7 @@ I'm an engineer at Nextios. Previously I worked on @dadosgovbr, Minas Gerais and
 
 I've contributions to @CKAN, @Wikimedia, @Mozilla, and other projects.
 
-I'm currently contributing to FarolCovid, a monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19:
+I'm currently maintaining the build, pipelines, and infrastructure of FarolCovid, a monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19:
 https://github.com/ImpulsoGov/farolcovid
 
 - 🌱 I'm currently learning AWS, Golang, and Game Development.
