@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz Felipe 👋
 
-I'm an engineer at Nextios. Previously I worked on @dadosgovbr, Minas Gerais and Rio de Janeiro (Brazil) startups.
+I'm a software engineer and independent consultant. Previously I worked on @Nextios, @dadosgovbr, Minas Gerais, and Rio de Janeiro (Brazil) startups.
 
 I've made contributions to @CKAN, @Wikimedia, @Mozilla, and other projects.
 
