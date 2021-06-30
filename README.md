@@ -1,14 +1,9 @@
 ### Hi there, I'm Luiz Felipe 👋
 
-I'm a software engineer and independent consultant. Previously I worked on @Nextios, @dadosgovbr, Minas Gerais, and Rio de Janeiro (Brazil) startups.
+I'm a quality engineer at Red Hat. Previously I worked at @Nextios, @dadosgovbr, and some Brazilian-based startups.
 
-I've made contributions to @CKAN, @Wikimedia, @Mozilla, and other projects.
-
-I'm currently maintaining the build, pipelines, and infrastructure of FarolCovid, a monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19:
-https://github.com/ImpulsoGov/farolcovid
-
-- 🌱 I'm currently learning AWS, Golang, and Game Development.
-- 💬 Ask me about Golang, Python, and AWS.
+- 🌱 I'm currently learning Golang.
+- 💬 Ask me about Golang, and Python.
 - 🐦 Reach me on Twitter: [@thenets](https://twitter.com/thenets)
 - 💼 Sometimes I post on [LinkedIn](https://www.linkedin.com/in/luizfelipecosta/)
 - 📺 My YouTube channel (pt-BR): [DedNets](https://www.youtube.com/channel/UCFnMuu71G_hso_BPmS6ciGw)
