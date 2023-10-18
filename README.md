@@ -1,10 +1,10 @@
 ### Hi there, I'm Luiz Felipe 👋
 
-I'm a quality engineer at Red Hat. Previously I worked at @Nextios, @dadosgovbr, and some Brazilian-based startups.
+I'm a Software Engineer at [Ansible](https://ansible.com/)/[Red Hat](https://redhat.com/). Previously, I worked at [Nextios](https://www.nextios.com.br/), [dados.gov.br](https://dados.gov.br/), and some Brazilian-based startups.
 
-- 🌱 I'm currently learning Golang.
-- 💬 Ask me about Golang, and Python.
-- 🐦 Reach me on Twitter: [@thenets](https://twitter.com/thenets)
+- 🌱 I'm currently learning about Linux kernel namespaces and SElinux.
+- 💬 Ask me about Golang, Python, Ansible, Linux and AWS.
+- 🐦 Reach me on Mastodon: [@thenets@fosstodon.org](https://fosstodon.org/@thenets)
 - 💼 Sometimes I post on [LinkedIn](https://www.linkedin.com/in/luizfelipecosta/)
 - 📺 My YouTube channel (pt-BR): [DedNets](https://www.youtube.com/channel/UCFnMuu71G_hso_BPmS6ciGw)
 - 😄 Pronouns: He/Him
